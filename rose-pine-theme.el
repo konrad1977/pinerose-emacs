@@ -1,4 +1,4 @@
-;;; package --- A beutiful theme
+;;; package --- A beautiful theme
 ;;; Commentary:
 ;;; rose-pine based theme
 
