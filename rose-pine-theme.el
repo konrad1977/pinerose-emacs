@@ -80,6 +80,10 @@
 
   (whitespace-newline                   (:foreground muted))
   (whitespace-space                     (:foreground muted))
+  (whitespace-indentation               (:foreground muted :background surface))
+  (whitespace-tab                       (:foreground muted :background surface))
+  (whitespace-space-after-tab           (:foreground muted :background surface))
+  (whitespace-space-before-tab          (:foreground muted :background surface))
   (whitespace-trailing                  (:foreground base :background love))
 
   ;; ;; Font lock
